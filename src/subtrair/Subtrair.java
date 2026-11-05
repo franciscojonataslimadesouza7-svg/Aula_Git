@@ -2,7 +2,7 @@ package subtrair;
 
 public class Subtrair {
 
-    public static int subtrair (int a, int b){
+    public static int subtrair (int a, int b, int c, int d){
         return a - b;
     }
 
