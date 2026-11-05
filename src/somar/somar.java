@@ -3,7 +3,7 @@ package somar;
 public class somar {
 
  public static int somar(int a, int b, int c){
-     return  a + b;
+     return  a + b + c;
  }
 
     static void main(String[] args) {
